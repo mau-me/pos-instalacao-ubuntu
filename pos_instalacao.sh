@@ -21,6 +21,7 @@ sudo apt install -y \
     git \
     zsh \
     latexmk \
+    chktex \
     texlive \
     texlive-lang-portuguese \
     texlive-extra-utils
