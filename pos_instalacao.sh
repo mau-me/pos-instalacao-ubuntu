@@ -22,8 +22,10 @@ sudo apt install -y \
     zsh \
     latexmk \
     chktex \
-    texlive \
+    texlive-latex-extra \
+    texlive-publishers \
     texlive-lang-portuguese \
+    texlive-fonts-recommended \
     texlive-extra-utils
 
 # Instala o Hyper
