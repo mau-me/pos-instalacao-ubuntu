@@ -24,6 +24,7 @@ sudo apt install -y \
     chktex \
     texlive-latex-extra \
     texlive-publishers \
+    texlive-science \
     texlive-lang-portuguese \
     texlive-fonts-recommended \
     texlive-extra-utils
