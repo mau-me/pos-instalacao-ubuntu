@@ -39,7 +39,7 @@ sudo apt install -f -y
 rm chrome.deb
 
 # Instala o Visual Studio Code
-wget https://az764295.vo.msecnd.net/stable/6509174151d557a81c9d0b5f8a5a1e9274db5585/code_1.82.1-1694163687_amd64.deb -O vscode.deb
+wget https://code.visualstudio.com/sha/download?build=stable&os=linux-deb-x64 -O vscode.deb
 sudo dpkg -i vscode.deb
 sudo apt install -f -y
 rm vscode.deb
