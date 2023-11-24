@@ -20,6 +20,9 @@ sudo apt install -y \
     wget \
     git \
     zsh \
+
+# Instala latex e dependências
+sudo apt install -y
     latexmk \
     chktex \
     texlive-latex-extra \
